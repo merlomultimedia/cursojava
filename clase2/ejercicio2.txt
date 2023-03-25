@@ -3,5 +3,11 @@ Respuestas ejercicio 2
 1- Creado
 2- creado
 3- porque el commit no envia los archivos al servidor
+<<<<<<< HEAD
 4-archivo verificado
 5- no esta porque no se ejecuto el comando Pull
+=======
+
+
+modificación del archivo desde github
+>>>>>>> 9965d2830aaa8410554ba1260c3489a517d7edc9
