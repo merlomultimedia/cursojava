@@ -1,0 +1,8 @@
+En este caso, git pull descargará todos los cambios desde el punto de
+separación de la rama local y la rama principal. En el ejemplo, ese punto
+es E.
+El comando git pull recuperará las confirmaciones remotas
+divergentes, que son A, B y C. A continuación, el proceso de
+incorporación de cambios creará otra confirmación de fusión local que
+incluya el contenido de las nuevas confirmaciones remotas
+divergentes.”
