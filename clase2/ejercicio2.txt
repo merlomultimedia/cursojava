@@ -3,3 +3,6 @@ Respuestas ejercicio 2
 1- Creado
 2- creado
 3- porque el commit no envia los archivos al servidor
+
+
+modificación del archivo desde github
