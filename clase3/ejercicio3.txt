@@ -1,0 +1,70 @@
+
+Ejercicios 3
+
+1-a
+---------------------------
+  String letras = "alkjfaakjlrr" ;          
+  String[] b = letras.split("") ;
+  
+  int rto = 0;
+for(String letra : b){
+    if(letra.contains("a")){
+        int result = letra.length();
+       rto += result  ;
+       
+    }    
+    }
+ System.out.print(rto);    
+
+ ----------------------------------
+ 1-b
+
+int a , b ,c ;
+a=1 ; b= 2; c=3;
+       int asc[] = new int[3] ;       
+      asc[0]= a ; 
+      asc[1]= b ; 
+      asc[2]= c ; 
+      for(int l : asc){
+          System.out.println(l);
+      }
+
+      int a , b ,c ;
+a=1 ; b= 2; c=3;
+       int asc[] = new int[3] ;       
+      asc[2]= a ; 
+      asc[1]= b ; 
+      asc[0]= c ; 
+      for(int l : asc){
+          System.out.println(l);
+      }
+
+-------------------------------------      
+1-c
+
+int num[]={1,2,3,4,5,6,7,8,9} ;
+int x = 3 ; 
+for(int d : num){
+    if(d > x){
+      System.out.println(x + d);
+    }
+}
+
+-------------------------------------
+
+2
+
+   String abc = "abcdefghijklmnñopqrstuvwxyz";     
+   String h = "hola que tal" ;    
+   String[] letra = abc.split("");
+   //String[] msj = h.split("");
+   int i = 0;
+   for(String l : letra){
+       
+      
+          System.out.println(h.charAt(i++));
+ 
+      }
+      
+incompleto
+------------------------------------------      

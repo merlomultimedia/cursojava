@@ -3,11 +3,16 @@ Respuestas ejercicio 2
 1- Creado
 2- creado
 3- porque el commit no envia los archivos al servidor
-<<<<<<< HEAD
+
 4-archivo verificado
 5- no esta porque no se ejecuto el comando Pull
-=======
+6- ejecuto comando pull
 
+nota: tengo los archivos remotos en la carpeta local
 
 modificación del archivo desde github
->>>>>>> 9965d2830aaa8410554ba1260c3489a517d7edc9
+
+Url del repositorio creado
+
+https://github.com/merlomultimedia/cursojava
+
